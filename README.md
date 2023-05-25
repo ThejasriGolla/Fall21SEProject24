@@ -1,2 +1,2 @@
 # Fall21SEProject24
-We design this website to maintain a healthy relationship with clients  This website Attracts Customers to get rental homes to their flexibility and affordable prices  We Make it easier for people to buy or rent a  houses  Below are the main features of our website
+An enterprise level Flight Booking System for Ohio Airlines (web-application) based on the Model View Controller (MVC) Architecture made using Java Servlets, Java Server Pages (JSPs). Moreover authentication and authorization for users is implemented. The web-application is also secured against SQL Injection and Cross-Site Scripting attacks.
